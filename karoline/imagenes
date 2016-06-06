@@ -1,0 +1,14 @@
+<html>
+	<body>
+		<ul>
+			<li> Imagen 1</li>
+			<img src="1.jpg"/>
+			<li>Imagen 2</li>
+			<img src="2.jpg">
+			<li>Imagen 3</li>
+			<img src="3.jpg">
+			<li>Imagen 4</li>
+			<img src="4.jpg">
+		</ul>
+  <body>
+	</html>
